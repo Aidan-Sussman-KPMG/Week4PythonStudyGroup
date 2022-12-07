@@ -1,0 +1,16 @@
+Account Type,constant fee,variable fee,Year
+High Growth,5,0.40%,2018
+High Growth,5,0.40%,2019
+High Growth,10,0.50%,2020
+High Growth,10,0.50%,2021
+High Growth,10,0.60%,2022
+Balanced,4,0.30%,2018
+Balanced,4,0.30%,2019
+Balanced,4,0.30%,2020
+Balanced,8,0.35%,2021
+Balanced,8,0.35%,2022
+Low Risk,2,0.20%,2018
+Low Risk,2,0.20%,2019
+Low Risk,2,0.20%,2020
+Low Risk,5,0.25%,2021
+Low Risk,5,0.25%,2022
